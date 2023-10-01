@@ -1,5 +1,5 @@
 <img src="https://fgp.dev/static/media/JavaDevelopmentBanner.0fa10828.jpg" height="200px" width="1100px">
-<h1 align="center">Exercícios de Técnicas de Programação WEB/h1> 
+<h1 align="center">Exercícios de Técnicas de Programação WEB</h1> 
 <p align="center">Exercícios em Java da matéria Técnicas de Programação WEB da faculdade SPTech</p>
 <div>
 <img src="https://img.shields.io/badge/Made%20with-Java-1f425f.svg">
